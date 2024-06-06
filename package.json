@@ -1,6 +1,6 @@
 {
   "name": "@cyntler/react-doc-viewer",
-  "version": "1.15.1",
+  "version": "1.15.2",
   "description": "File viewer for React.",
   "author": "Matthew Mogford / Damian Cyntler",
   "keywords": [
@@ -39,7 +39,7 @@
     "ajv": "^7",
     "mustache": "^4.2.0",
     "papaparse": "^5.4.1",
-    "react-pdf": "latest",
+    "react-pdf": "^8.0.2",
     "styled-components": "^6.1.11"
   },
   "devDependencies": {
